@@ -1,0 +1,7 @@
+Patient_ID,Age,BP,Glucose,Disease
+101,45,120,95,Diabetes
+102,60,145,180,Diabetes
+103,35,115,90,None
+104,55,150,160,Hypertension
+105,42,125,110,None
+106,67,160,190,Diabetes
