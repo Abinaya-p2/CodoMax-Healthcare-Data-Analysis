@@ -1,0 +1,9 @@
+Patient_ID,Age,BP,Glucose,Disease
+101,45.0,120.0,95,Diabetes
+102,60.0,145.0,180,Diabetes
+103,35.0,115.0,90,
+104,55.0,150.0,160,Hypertension
+105,42.0,125.0,110,
+106,67.0,160.0,190,Diabetes
+107,50.0,130.0,105,
+108,50.0,130.0,140,Hypertension
