@@ -17,7 +17,6 @@ This project analyzes a sample healthcare dataset using Python and Pandas.
 - Google Colab
 
 ## Files
-- `healthcare_analysis.py` — Python analysis code.
 - `healthcare_analysis.csv` — Healthcare dataset.
 
 ## Disclaimer
@@ -47,7 +46,7 @@ This module focuses on exploring, cleaning, and analyzing a sample healthcare da
 ### Files
 - `healthcare_data.csv` — Sample healthcare dataset used for analysis.
 - `healthcare_analysis_cleaned.csv` — Cleaned healthcare dataset generated after data processing.
-- `healthcare_visualization.ipynb` — Google Colab notebook, if downloaded and uploaded to GitHub.
+- `Healthcare_Data_Analysis_Python module 02.ipynb` — Google Colab notebook, if downloaded and uploaded to GitHub.
 
 ### Key Learning Outcomes
 - Data exploration using Pandas.
@@ -95,8 +94,7 @@ Different charts are used to understand patient data, identify patterns, and pre
 - Presenting data analysis insights clearly.
 
 ### Files
-- `healthcare_visualization.py` — Python code for data visualization, if saved as a Python file.
-- `healthcare_visualization.ipynb` — Google Colab notebook, if downloaded and uploaded to GitHub.
+- `Healthcare_Data_Analysis_module(03).ipynb` — Google Colab notebook, if downloaded and uploaded to GitHub.
 
 ### Disclaimer
 This module uses fictional sample patient data for educational purposes only. The visualizations are for learning and demonstration, not for medical diagnosis.
@@ -125,7 +123,7 @@ This module demonstrates a basic machine learning classification model using a s
 The model was evaluated using three test records and achieved an accuracy of 66.67% in this run. Due to the very small dataset, this result is only for educational demonstration and does not indicate reliable real-world performance.
 
 ### Files
-- `healthcare_machine_learning.ipynb` — Notebook containing the machine learning code and results.
+- `Healthcare_Data_Analysis_module(04) .ipynb` — Notebook containing the machine learning code and results.
 
 ### Key Learning Outcomes
 - Understanding supervised machine learning.
