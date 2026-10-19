@@ -47,6 +47,7 @@ This module focuses on exploring, cleaning, and analyzing a sample healthcare da
 ### Files
 - `healthcare_data.csv` — Sample healthcare dataset used for analysis.
 - `healthcare_analysis_cleaned.csv` — Cleaned healthcare dataset generated after data processing.
+- `healthcare_visualization.ipynb` — Google Colab notebook, if downloaded and uploaded to GitHub.
 
 ### Key Learning Outcomes
 - Data exploration using Pandas.
@@ -57,4 +58,46 @@ This module focuses on exploring, cleaning, and analyzing a sample healthcare da
 
 ### Disclaimer
 This module uses fictional sample patient data for educational purposes only.
+
+## Module 3: Data Visualization with Python
+
+### Project Overview
+This module focuses on visualizing a sample healthcare dataset using Python, Matplotlib, and Seaborn. 
+Different charts are used to understand patient data, identify patterns, and present insights clearly.
+
+### Objectives
+- Create a bar chart to show the number of patients in each disease category.
+- Create a line chart to explore the relationship between patient age and glucose levels.
+- Create a pie chart to show the distribution of disease categories.
+- Create a histogram to understand the distribution of patient ages.
+- Create a scatter plot to compare patient age and glucose levels by disease category.
+- Calculate basic statistics and identify insights from the dataset.
+
+### Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+### Visualizations
+1. **Bar Chart** — Displays the number of patients in each disease category.
+2. **Line Chart** — Shows patient age and glucose level patterns.
+3. **Pie Chart** — Illustrates the percentage distribution of disease categories.
+4. **Histogram** — Shows the distribution of patient ages.
+5. **Scatter Plot** — Compares patient age and glucose levels by disease category.
+
+### Key Learning Outcomes
+- Creating charts using Matplotlib and Seaborn.
+- Visualizing healthcare data in different formats.
+- Identifying patterns and trends in a dataset.
+- Comparing patient measurements using charts.
+- Presenting data analysis insights clearly.
+
+### Files
+- `healthcare_visualization.py` — Python code for data visualization, if saved as a Python file.
+- `healthcare_visualization.ipynb` — Google Colab notebook, if downloaded and uploaded to GitHub.
+
+### Disclaimer
+This module uses fictional sample patient data for educational purposes only. The visualizations are for learning and demonstration, not for medical diagnosis.
 
