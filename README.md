@@ -101,3 +101,38 @@ Different charts are used to understand patient data, identify patterns, and pre
 ### Disclaimer
 This module uses fictional sample patient data for educational purposes only. The visualizations are for learning and demonstration, not for medical diagnosis.
 
+## Module 4: Machine Learning Basics
+
+### Project Overview
+This module demonstrates a basic machine learning classification model using a sample healthcare dataset. A Decision Tree Classifier is trained using patient age, blood pressure, and glucose level to predict a disease category.
+
+### Objectives
+- Prepare a sample healthcare dataset.
+- Select input features and a target variable.
+- Split the dataset into training and testing sets.
+- Train a Decision Tree Classifier using Scikit-learn.
+- Predict disease categories.
+- Evaluate the model using accuracy, a classification report, and a confusion matrix.
+
+### Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Google Colab
+
+### Results
+The model was evaluated using three test records and achieved an accuracy of 66.67% in this run. Due to the very small dataset, this result is only for educational demonstration and does not indicate reliable real-world performance.
+
+### Files
+- `healthcare_machine_learning.ipynb` — Notebook containing the machine learning code and results.
+
+### Key Learning Outcomes
+- Understanding supervised machine learning.
+- Training and testing a classification model.
+- Making predictions using sample data.
+- Evaluating model performance.
+
+### Disclaimer
+This project uses fictional sample patient data for educational purposes only. It is not intended for medical diagnosis or real healthcare decisions.
+
